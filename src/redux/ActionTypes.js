@@ -1,0 +1,13 @@
+export const LEADERS_LOADING = 'LEADERS_LOADING';
+export const ADD_LEADERS = 'ADD_LEADER';
+export const LEADERS_FAILED = 'LEADERS_FAILED';
+export const PROJECTS_LOADING = 'PROJECTS_LOADING';
+export const ADD_PROJECTS = 'ADD_PROJECTS';
+export const PROJECTS_FAILED = 'PROJECTS_FAILED';
+export const BUGS_LOADING = 'BUGS_LOADING';
+export const ADD_BUGS = 'ADD_BUGS';
+export const BUGS_FAILED = 'BUGS_FAILED';
+export const ADD_COMMENTS = 'ADD_COMMENTS';
+export const COMMENTS_FAILED = 'COMMENTS_FAILED';
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const ADD_FEEDBACK = 'ADD_FEEDBACK';

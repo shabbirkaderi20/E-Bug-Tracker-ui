@@ -1,0 +1,81 @@
+{
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    },
+    {
+      "firstname": "Kishan",
+      "lastname": "Biswal",
+      "telnum": "8490384035",
+      "email": "kbiswal@xyz.in",
+      "agree": true,
+      "contactType": "Email Id",
+      "message": "I need more sauce in zucchini......",
+      "date": "2022-02-12T11:36:10.066Z",
+      "id": 2
+    },
+    {
+      "firstname": "Bharath",
+      "lastname": "Gowda",
+      "telnum": "7389799943",
+      "email": "bharathj@google.in",
+      "agree": false,
+      "contactType": "Email Id",
+      "message": "I am better than your executive chef....... pls contact if you agree",
+      "date": "2022-02-12T12:34:38.591Z",
+      "id": 3
+    },
+    {
+      "firstname": "Sandeep",
+      "lastname": "Chikkala",
+      "telnum": "7438590943",
+      "email": "sandy@fac.in",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "I am CR for life ^_^",
+      "date": "2022-02-12T12:38:33.956Z",
+      "id": 4
+    },
+    {
+      "firstname": "Sam",
+      "lastname": "Smart",
+      "telnum": "9320390202",
+      "email": "sams@rac.in",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "",
+      "date": "2022-02-12T12:40:31.612Z",
+      "id": 5
+    },
+    {
+      "firstname": "Shabbir",
+      "lastname": "Kaderi",
+      "telnum": "8490384035",
+      "email": "shabbirkaderi9@gmail.com",
+      "agree": true,
+      "contactType": "Email Id",
+      "message": "Hi , nice restaurant with unique dishes",
+      "date": "2022-02-14T09:27:01.424Z",
+      "id": 6
+    },
+    {
+      "firstname": "Akshay ",
+      "lastname": "Reddy",
+      "telnum": "0848848950",
+      "email": "akki@cg.in",
+      "agree": true,
+      "contactType": "Email Id",
+      "message": "Hi, please improve your UI. respond quickly for help",
+      "date": "2022-04-30T11:58:55.696Z",
+      "id": 7
+    }
+  ]
+}
